@@ -10,8 +10,8 @@
         {
             "id": 2,
             "title": "História da Loucura",
-            "image": "https://imagens.lelivros.org/2017/06/Hist%C3%B3ria-da-Loucura-na-Idade-Cl%C3%A1ssica.jpg",
-            "autor": "Michael Foucault",
+            "image": "https://m.media-amazon.com/images/I/41jU8a8P3HL._AC_SY780_.jpg",
+            "autor": "Michel Foucault",
             "sinopse": "Neste livro, o autor põe em xeque concepções firmadas sob o rótulo de possíveis verdades científicas, como no campo da medicina psiquiátrica, em que sua análise crítica atingiu a operacionalidade terapêutica das noções tradicionais de sanidade e loucura. Este livro de Michel Foucault, já um 'clássico' da filosofia moderna, não pretende fazer a história dos loucos ao lado, em presença ou no convívio das pessoas 'normais'; nem a história da razão em oposição à da loucura. Trata-se de levantar a história dessa divisão incessante, porém sempre modificada - divisão que se produz através de muitas outras, como as definidas por produção, trabalho, riqueza, estrutura familiar, penalidade, coações morais etc. Não é, de modo algum, a medicina quem definiu os limites entre a razão e a loucura; no entanto, desde o século XIX, foram os médicos que se encarregaram de vigiar a fronteira e montar guarda na sua cancela. Afixaram nela o rótulo 'doença mental', indicação que vale como interdição."
         },
         {
@@ -32,14 +32,14 @@
             "id": 5,
             "title": "Vigiar e Punir",
             "image": "https://images-na.ssl-images-amazon.com/images/I/41ToIOFZD0L._SY344_BO1,204,203,200_QL70_ML2_.jpg",
-            "autor": "Michael Foucault",
+            "autor": "Michel Foucault",
             "sinopse": "É um estudo científico, fartamente documentado, sobre a evolução histórica da legislação penal e respectivos métodos coercitivos e punitivos adotados pelo poder público na repressão da delinqüência. Métodos que vão da violência física até instituições correcionais. Esta edição revista traz também uma nova capa mais moderna e atual."
         },
         {
             "id": 6,
             "title": "A Ordem do Discurso",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51yNU+uKFNL._SY344_BO1,204,203,200_.jpg",
-            "autor": "Michael Foucault",
+            "autor": "Michel Foucault",
             "sinopse": "Por Laura Fraga de Almeida Sampaio, tradutora do livro A aula inaugural, que Foucault pronunciou ao assumir a cátedra vacante no Collège de France pela morte de Hyppolite, pode ser considerada um texto de ligação entre suas obras, datadas dos anos 60, como História da loucura, As palavras e as coisas, A arqueologia do saber, centradas predominantemente na análise das condições de possibilidade das ciências humanas, e as que se seguiram a maio de 68, como Vigiar e punir, voltados ao exame da microfisica do poder. Foucault desvenda a relação entre as práticas discursivas e os poderes que as permeiam. Ao perceber os diversos procedimentos que cerceiam e controlam os discursos da sociedade, o autor comprova que “o discurso não é simplesmente aquilo que traduz as lutas ou os sistemas de dominação, mas aquilo pelo que se luta, o poder de queremos nos apoderar”. Na segunda parte do texto, Foucault anuncia a direção em que prosseguirá suas investigações no decorrer dos cursos no Collège de France, apontando para o que denomina o “conjunto crítico” e o “conjunto genealógico” e lança o projeto de estudo das interdições que atingem o discurso da sexualidade. A este trabalho dedicará muitos anos, após a publicação do primeiro volume da História da sexualidade, em 1976: A vontade de saber (uso dos prazeres, vol.2, O cuidado de si, vol, 3, ambos de 1984)."
         },
         {
@@ -102,7 +102,7 @@
             "id": 15,
             "title": "Meditações Metafísicas",
             "image": "https://images-na.ssl-images-amazon.com/images/I/41LFKvyw4DL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
-            "autor": "Descartes",
+            "autor": "René Descartes",
             "sinopse": "“Penso, Logo Existo.” (René Descartes). Esta sentença, que se transformou em uma das mais célebres alegações da Filosofia moderna, constitui-se no fio condutor deste livro, escrito em meados do século XVII e considerado a obra-prima de seu autor. Para bem compreender a metafísica de Descartes, é indispensável ao leitor conhecer as Meditações Metafísicas, que ampliam suas considerações inspiradas no método cartesiano – iniciadas em Discurso sobre o Método – para comprovar a existência de Deus e a primazia da alma sobre o corpo. Composta por seis meditações de caráter filosófico, a presente obra desmonta e reconstrói a ideia do eu individual ao reunir argumentos sobre a existência de Deus e a dualidade entre alma e corpo."
         },
         {
@@ -116,7 +116,7 @@
             "id": 17,
             "title": "Microfísica do Poder",
             "image": "https://images-na.ssl-images-amazon.com/images/I/717kDicPv-L.jpg",
-            "autor": "Michael Foucault",
+            "autor": "Michel Foucault",
             "sinopse": "Composta por textos escritos na década de 1970, Microfísica do poder foi elaborado por Foucault na perspectiva de construir resistências específicas aos variados dispositivos do poder."
         },
         {
@@ -186,7 +186,7 @@
             "id": 27,
             "title": "Crime e Loucura",
             "image": "https://eduerj.com/wp-content/uploads/2016/01/Crime-e-Loucura-1-510x733.jpg",
-            "autor": "SÉrgio Carrara",
+            "autor": "Sérgio Carrara",
             "sinopse": "O autor observa o cotidiano do Manicômio Judiciário, detalhando mais claramente a essencial ambivalência da instituição e nela identificando a superposição de dois modelos de intervenção social: o jurídico-punitivo e o psiquiátrico-terapêutico. A obra contribui para a história social da psicopatia no Brasil e, dialogando com Michel Foucault, Robert Castel, entre outros, fala das grandes questões da modernidade, sobretudo da questão do livre arbítrio e da responsabilidade criminal. Documentos e processos criminais analisados por Sérgio Carrava revelam representações e ações de personagens que, no final do século XIX e início do século XX, reforçam um debate acerca da questão do crime, da transgressão e da responsabilidade."
         },
         {
@@ -284,7 +284,7 @@
             "id": 41,
             "title": "Enfrentando crises e fechando Gestalten",
             "image": "https://images-na.ssl-images-amazon.com/images/I/41FFEiQbTPL._SX331_BO1,204,203,200_.jpg",
-            "autor": " Lilian Meyer Frazão e Karina Okajima Fukumitsu",
+            "autor": "Lilian Meyer Frazão e Karina Okajima Fukumitsu",
             "sinopse": "Crises todos vivemos. Forças para enfrentá-las nem todos temos. Se um dos objetivos principais da Gestalt-terapia é a ampliação da awareness, sobretudo daquilo que impede o fluxo contínuo e dificulta a fluidez do viver, é fundamental refletir sobre as situações inacabadas que nos impedem de avançar. Neste volume, diversos autores mostram que, por meio da espontaneidade, da criatividade e da espiritualidade, é possível abordar sofrimentos diversos, como os políticos, os oriundos de acidentes e de questões de gênero. Calcados na ética e no acolhimento terapêutico, os capítulos aqui presentes dão uma importante contribuição à abordagem. Temas abordados: •O trauma segundo o enfoque da Gestalt-terapia •Ressignificando processos com pacientes queimados •Processos autodestrutivos: do luto do 'antigo self' à reinvenção criativa do self •Experiências em Gestalt-terapia diante do sofrimento LGBTQI+ •Ética e sofrimento humano •Cuidado às pessoas em sofrimento e possibilidades de ressignificação •Relação ambiente-corpo como unidade sagrada: Gestalt-terapia como morada da espiritualidade."
         },
         {
@@ -305,7 +305,7 @@
             "id": 44,
             "title": "História da Sexualidade",
             "image": "https://images-na.ssl-images-amazon.com/images/I/41lCEVe8abL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
-            "autor": "Michael Foucault",
+            "autor": "Michel Foucault",
             "sinopse": "História da sexualidade 1: A vontade de saber chega em novo e arrojado projeto gráfico. Ao longo de 1975 a 1984, Michel Foucault dedicou seu trabalho no Collége de France principalmente à análise do lugar da sexualidade na sociedade ocidental, o que origem à História da sexualidade, em quatro volumes. O filósofo empreendeu uma pesquisa história que ressaltou como nenhuma outra a importância do sexo e da sexualidade na vida social desde a Grécia e Roma Antigas até a Modernidade. O primeiro volume, A vontade de saber, mostra que a sexualidade não foi reprimida com o capitalismo, depois de ter vivido em liberdade. A hipótese é de que, desde o século XVI – processo que se intensifica a partir do século XIX –, o sexo foi incitado a se manifestar por uam vontade de saber sobre a sexualidade, que é peça das estratégias de controle dos indívuos e das popularções características das sociedades modernas. Leia os outros três volumes: História da sexulidade: O uso dos prazeres (Vol. 2), História da sexualidade: O cuidado de si (Vol. 3) e História da sexualidade: As confissões da carne (Vol. 4)"
         },
         {
@@ -424,7 +424,7 @@
             "id": 61,
             "title": "A sociedade punitiva",
             "image": "https://images-na.ssl-images-amazon.com/images/I/31Ssks1ZcrL._SX342_BO1,204,203,200_.jpg",
-            "autor": "Michael Foucault",
+            "autor": "Michel Foucault",
             "sinopse": "Ministradas no Collège de France no primeiro trimestre de 1973, essas treze aulas sobre a 'sociedade punitiva' examinam como foram forjadas as relações entre a justiça e a verdade, que regem o direito penal moderno, e questionam o que as liga ao surgimento de um novo regime punitivo que ainda domina nossa sociedade. O curso, que é um esboço da obra Vigiar e punir, publicado em 1975, vai além do sistema carcerário e trata da sociedade de economia capitalista."
         },
         {
