@@ -10,7 +10,7 @@
         {
             "id": 2,
             "title": "História da Loucura",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/41jU8a8P3HL._SX271_BO1,204,203,200_.jpg",
+            "image": "https://imagens.lelivros.org/2017/06/Hist%C3%B3ria-da-Loucura-na-Idade-Cl%C3%A1ssica.jpg",
             "autor": "Michael Foucault",
             "sinopse": "Neste livro, o autor põe em xeque concepções firmadas sob o rótulo de possíveis verdades científicas, como no campo da medicina psiquiátrica, em que sua análise crítica atingiu a operacionalidade terapêutica das noções tradicionais de sanidade e loucura. Este livro de Michel Foucault, já um 'clássico' da filosofia moderna, não pretende fazer a história dos loucos ao lado, em presença ou no convívio das pessoas 'normais'; nem a história da razão em oposição à da loucura. Trata-se de levantar a história dessa divisão incessante, porém sempre modificada - divisão que se produz através de muitas outras, como as definidas por produção, trabalho, riqueza, estrutura familiar, penalidade, coações morais etc. Não é, de modo algum, a medicina quem definiu os limites entre a razão e a loucura; no entanto, desde o século XIX, foram os médicos que se encarregaram de vigiar a fronteira e montar guarda na sua cancela. Afixaram nela o rótulo 'doença mental', indicação que vale como interdição."
         },
@@ -503,6 +503,22 @@
             "image": "https://images-na.ssl-images-amazon.com/images/I/61T85jVD7jL._SX347_BO1,204,203,200_.jpg",
             "autor": "Domenico Losurdo",
             "sinopse": "Um dos maiores pensadores marxistas do século XX, o italiano Domenico Losurdo deixou um contundente legado não só para o pensamento filosófico, mas também para a luta contra o imperialismo e o colonialismo. Essa coletânea, organizada pelo historiador Jones Manoel, traz ao leitor 12 intervenções do renomado estudioso, entre artigos, transcrições de palestras e entrevistas. Tendo como conceitos centrais os temas do imperialismo, do racismo e da dominação colonial, a obra apresenta uma compreensão estratégica da luta de classes internacional durante o século XX e sua continuidade no século XXI. Das ligações teóricas entre o regime nazista e os Estados Unidos até a chamada “indústria da mentira” em operação nos recentes conflitos na Síria e no Iraque, os métodos da dominação colonial são expostos e integrados a uma visão histórica do desenvolvimento do capitalismo sob hegemonia estadunidense. A coletânea propõe um vínculo claro entre capitalismo e colonialismo, e também entre marxismo e luta anticolonial e anti-imperialista, de uma perspectiva histórica e militante. O texto é muito instrutivo sobre a relação entre o surgimento do movimento comunista e o combate à dominação colonial e racial no mundo."
+        },
+
+        {
+            "id": 73,
+            "title": "Comportamento Verbal",
+            "image": "https://www.psicologiamsn.com/wp-content/uploads/2016/01/55376_625.jpg",
+            "autor": "B. F. Skinner",
+            "sinopse": "Mais de meio século após sua publicação inicial em 1957, Verbal Behavior permaneceu em alta demanda e continua a contribuir para a ciência e a sociedade. A eficácia documentada das práticas de Skinner manteve a popularidade do Comportamento Verbal, apesar das críticas iniciais da revisão supostamente fatal de Noam Chomsky. De fato, sua pesquisa inspirou técnicas que se mostraram cada vez mais bem-sucedidas com distúrbios de comportamento aberrantes, como autismo e atraso na fala. Neste trabalho brilhante e ambicioso, Skinner faz uma análise funcional do comportamento verbal e argumenta que o condicionamento operante pode explicar e explicar uma grande parte dos fenômenos linguísticos, como demonstrado em experimentos de laboratório e extensa análise literária. Skinner detalha as consequências e questões dessa análise e aborda suas implicações filosóficas, como os aspectos sociais da linguagem e as naturezas do significado e do pensamento. O estudo clássico da psicologia de Skinner, embora controverso, contribuiu para o bem-estar da sociedade e continua a inspirar um crescente corpo de pesquisas e aplicações. Comportamento Verbal é uma obra teórica excepcional para aqueles que desejam compreender os princípios da terapia comportamental. B. f. Skinner (1904-1990), cientista comportamental mais influente da América, autor de mais de 20 livros e cerca de 200 artigos. Ele atuou como Presidente do Departamento de Psicologia da Universidade de Indiana e mais tarde tornou-se o Professor Edgar Pierce de Psicologia na Universidade de Harvard até sua aposentadoria em 1974. Suas contribuições para a psicologia incitaram uma abundância de desenvolvimentos e permanecem relevantes no campo hoje."
+        },
+
+        {
+            "id": 74,
+            "title": "Walden II",
+            "image": "https://5934488p.ha.azioncdn.net/capas-livros/9788512670201-b-f-skinner-walden-2-uma-sociedade-do-futuro-1856801074.jpg",
+            "autor": "B. F. Skinner",
+            "sinopse": "O livro sugere que empreguemos o nosso conhecimento sobre o comportamento humano para criar um ambiente social onde levaremos vidas produtivas e criativas, sem com isso comprometer as possibilidades daqueles que nos seguirão, para que eles possam fazer o mesmo."
         }
     ]
 }
